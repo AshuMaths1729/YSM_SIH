@@ -1,4 +1,4 @@
-## Youva Sikhar Manch
+# Youva Sikhar Manch
 An intelligent platform for job seekers as well as employers.
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
@@ -19,13 +19,13 @@ ___
 * run _pdf_reader.py_
 
 ___
-# Dependencies
+## Dependencies
 * Flask
 * Rake
 * PyPDF2
 * Python 3.6+
 * Spacy
 
-# To Do
+## To Do
 * Make full fledged web crawler for courses.
 * Make full working recommendation engine (it depends upon web crawler results and job database).
