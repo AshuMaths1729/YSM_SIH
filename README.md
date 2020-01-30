@@ -18,6 +18,9 @@ ___
 ## To Run script on Keyword Extraction on PDF files
 * run _pdf_reader.py_
 
+## To run user authorisation for assessments
+* run _pic_cap.py_, ensuring resnet model h5 file in same directory
+
 ___
 ## Dependencies
 * Flask
@@ -25,6 +28,10 @@ ___
 * PyPDF2
 * Python 3.6+
 * Spacy
+* resnet model
+* tensorflow
+* image-ai
+* keras
 
 ## To Do
 * Make full fledged web crawler for courses.
