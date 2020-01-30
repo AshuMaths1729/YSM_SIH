@@ -17,3 +17,11 @@ ___
 
 ## To Run script on Keyword Extraction on PDF files
 * run _pdf_reader.py_
+
+___
+# Dependencies
+* Flask
+* Rake
+* PyPDF2
+* Python 3.6+
+* Spacy
