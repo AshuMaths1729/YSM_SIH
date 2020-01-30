@@ -25,3 +25,7 @@ ___
 * PyPDF2
 * Python 3.6+
 * Spacy
+
+# To Do
+* Make full fledged web crawler for courses.
+* Make full working recommendation engine (it depends upon web crawler results and job database).
