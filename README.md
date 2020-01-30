@@ -29,3 +29,12 @@ ___
 ## To Do
 * Make full fledged web crawler for courses.
 * Make full working recommendation engine (it depends upon web crawler results and job database).
+
+
+## Team
+* Ashutosh Agrahari
+* Yashi Srivastava
+* Baibhab Narayan Pal
+* Anchal Agarwal
+* Mohd Arbaaz
+* Apurva
